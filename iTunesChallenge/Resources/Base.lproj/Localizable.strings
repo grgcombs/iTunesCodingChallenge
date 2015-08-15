@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  iTunes Challenge
+
+  Created by Gregory Combs on 11/3/14.
+  Copyright (c) 2014 Greg Combs. All rights reserved.
+*/
+
+"Cancel" = "Cancel";
+"OK" = "OK";
+/* Title for list controller */
+"ListTitle" = "More Free than 'Free'";
+/* A description of the list controller's purpose and contents */
+"ListDescription" = "Popular, free apps that aren't rolling in dough from in-app purchases.";
+/* Unidentifiable application category */
+"UnknownCategory" = "Unknown";
+/* Title for alert box due to data loading error */
+"DataErrorTitle" = "Data Error";
+/* Message for alert box due to data loading error */
+"An error occurred while loading data:\n %@" = "An error occurred while loading data:\n %@";
