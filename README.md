@@ -1,6 +1,6 @@
 # iTunes Code Challenge
 
-[![CI Status](http://img.shields.io/travis/grgcombs/iTunesCodeChallenge.svg?style=flat)](https://travis-ci.org/grgcombs/iTunesCodeChallenge)
+[![CI Status](http://img.shields.io/travis/grgcombs/iTunesCodingChallenge.svg?style=flat)](https://travis-ci.org/grgcombs/iTunesCodingChallenge)
 
 ## Summary
 
